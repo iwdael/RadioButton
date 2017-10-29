@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabFragment</string>
+    <string name="tab_radiobutton_name_one">首页</string>
+    <string name="tab_radiobutton_name_two">音乐</string>
+    <string name="tab_radiobutton_name_three">视频</string>
+    <string name="tab_radiobutton_name_four">我的</string>
+</resources>

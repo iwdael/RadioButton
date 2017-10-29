@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/fl_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/tab_radiobutton_line_color" />
+
+    <RadioGroup
+        android:id="@+id/rad_group"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/tab_button_height"
+        android:orientation="horizontal">
+
+        <com.absurd.radiobutton.RadioButton
+            android:id="@+id/tab_radiobutton_one"
+            style="@style/tab_button_style"
+            android:checked="true"
+            android:drawableTop="@drawable/tab_radiobutton_drawable_one"
+            android:text="@string/tab_radiobutton_name_one"
+            app:drawable_height="@dimen/tab_radiobutton_drawable_height"
+            app:drawable_marginTop="@dimen/tab_radiobutton_drawable_marginTop"
+            app:drawable_width="@dimen/tab_radiobutton_drawable_width" />
+
+        <com.absurd.radiobutton.RadioButton
+            android:id="@+id/tab_radiobutton_two"
+            style="@style/tab_button_style"
+            android:drawableTop="@drawable/tab_radiobutton_drawable_two"
+            android:text="@string/tab_radiobutton_name_two"
+            app:drawable_height="@dimen/tab_radiobutton_drawable_height"
+            app:drawable_marginTop="@dimen/tab_radiobutton_drawable_marginTop"
+            app:drawable_width="@dimen/tab_radiobutton_drawable_width" />
+
+        <com.absurd.radiobutton.RadioButton
+            android:id="@+id/tab_radiobutton_three"
+            style="@style/tab_button_style"
+            android:drawableTop="@drawable/tab_radiobutton_drawable_three"
+            android:text="@string/tab_radiobutton_name_three"
+            app:drawable_height="@dimen/tab_radiobutton_drawable_height"
+            app:drawable_marginTop="@dimen/tab_radiobutton_drawable_marginTop"
+            app:drawable_width="@dimen/tab_radiobutton_drawable_width" />
+
+        <com.absurd.radiobutton.RadioButton
+            android:id="@+id/tab_radiobutton_four"
+            style="@style/tab_button_style"
+            android:drawableTop="@drawable/tab_radiobutton_drawable_four"
+            android:text="@string/tab_radiobutton_name_four"
+            app:drawable_height="@dimen/tab_radiobutton_drawable_height"
+            app:drawable_marginTop="@dimen/tab_radiobutton_drawable_marginTop"
+            app:drawable_width="@dimen/tab_radiobutton_drawable_width" />
+    </RadioGroup>
+</LinearLayout>
