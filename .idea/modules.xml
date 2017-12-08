@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RadioButton.iml" filepath="$PROJECT_DIR$/RadioButton.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TabFragment.iml" filepath="$PROJECT_DIR$/TabFragment.iml" />
+      <module fileurl="file://E:\AndroidApplication\Application\RadioButton\TabFragment.iml" filepath="E:\AndroidApplication\Application\RadioButton\TabFragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/radiobutton/radiobutton.iml" filepath="$PROJECT_DIR$/radiobutton/radiobutton.iml" />
     </modules>

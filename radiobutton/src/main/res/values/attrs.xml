@@ -4,5 +4,8 @@
         <attr name="drawable_height" format="dimension"></attr>
         <attr name="drawable_width" format="dimension" />
         <attr name="drawable_marginTop" format="dimension"></attr>
+        <attr name="drawable_marginBottom" format="dimension"></attr>
+        <attr name="drawable_marginLeft" format="dimension"></attr>
+        <attr name="drawable_marginRight" format="dimension"></attr>
     </declare-styleable>
 </resources>
