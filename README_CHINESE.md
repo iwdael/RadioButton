@@ -1,9 +1,9 @@
 # RadioButton [![](https://jitpack.io/v/mr-absurd/radiobutton.svg)](https://jitpack.io/#aliletter/radiobutton)
-RadioButton is an secondary development control that adds six attributes to make RadioButton more flexible to use, including the size of the drawaable, and the distance between drawable and text.
-# How to
-To get a Git project into your build:
-## Step 1. Add the JitPack repository to your build file
-Add it in your root build.gradle at the end of repositories:
+RadioButton 是一个基于官方二次开发的控件，它新增了六个属性，使用起来更加灵活方便，包括控制drawaable的大小，以及drawable与text之间的距离。
+# 使用
+如何正确地配置到你的项目中:
+## 步骤 1. 添加JitPack仓库到你的项目中
+合并如下代码项目的根目录的build.gradle文件中:
 
 	allprojects {
 		repositories {
@@ -12,14 +12,13 @@ Add it in your root build.gradle at the end of repositories:
 		}
 	}
   
-## Step 2. Add the dependency
-
+## Step 2. 添加依赖
 	dependencies {
           compile 'com.github.aliletter:radiobutton:v1.0.3'
           
 	}
 
-# Instruction
+# 说明
 ```Java
  <com.aliletter.radiobutton.RadioButton
             style="@style/button_style"
