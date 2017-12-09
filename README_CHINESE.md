@@ -1,6 +1,6 @@
 # RadioButton [![](https://jitpack.io/v/mr-absurd/radiobutton.svg)](https://jitpack.io/#aliletter/radiobutton)
 RadioButton 是一个基于官方二次开发的控件，它新增了六个属性，使用起来更加灵活方便，包括控制drawaable的大小，以及drawable与text之间的距离。
-# 使用
+# 配置
 如何正确地配置到你的项目中:
 ## 步骤 1. 添加JitPack仓库到你的项目中
 合并如下代码项目的根目录的build.gradle文件中:
@@ -18,7 +18,7 @@ RadioButton 是一个基于官方二次开发的控件，它新增了六个属�
           
 	}
 
-# 说明
+# 使用说明
 ```Java
  <com.aliletter.radiobutton.RadioButton
             style="@style/button_style"
