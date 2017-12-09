@@ -1,5 +1,5 @@
 # RadioButton [![](https://jitpack.io/v/mr-absurd/radiobutton.svg)](https://jitpack.io/#aliletter/radiobutton)
-RadioButton is an secondary development control that adds six attributes to make RadioButton more flexible to use, including the size of the drawaable, and the distance between drawable and text.
+RadioButton is an secondary development control that adds six attributes to make RadioButton more flexible to use, including the size of the drawaable, and the distance between drawable and text.  [[中文文档]](https://github.com/aliletter/RadioButton/blob/master/README_CHINESE.md)
 # How to
 To get a Git project into your build:
 ## Step 1. Add the JitPack repository to your build file
