@@ -1,4 +1,4 @@
-package com.aliletter.radiobutton;
+package com.blackchopper.radiobutton;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -6,14 +6,12 @@ import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 import android.util.Log;
 
-import java.lang.reflect.Type;
-
 /**
- * Created by 段泽全 on 2017/10/29.
- * Github：https://github.com/aliletter
- * Emile:4884280@qq.com
+ * author  : Black Chopper
+ * e-mail  : 4884280@qq.com
+ * github  : http://github.com/BlackChopper
+ * project : RadioButton
  */
-
 public class RadioButton extends android.widget.RadioButton {
     private int mDrawableWidth;
     private int mDrawableHeight;

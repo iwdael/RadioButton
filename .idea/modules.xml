@@ -4,11 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RadioButton.iml" filepath="$PROJECT_DIR$/RadioButton.iml" />
       <module fileurl="file://C:\Users\absurd\Desktop\RadioButton\RadioButton.iml" filepath="C:\Users\absurd\Desktop\RadioButton\RadioButton.iml" />
+      <module fileurl="file://F:\RadioButton\RadioButton.iml" filepath="F:\RadioButton\RadioButton.iml" />
       <module fileurl="file://E:\AndroidApplication\Application\RadioButton\TabFragment.iml" filepath="E:\AndroidApplication\Application\RadioButton\TabFragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\Users\absurd\Desktop\RadioButton\app\app.iml" filepath="C:\Users\absurd\Desktop\RadioButton\app\app.iml" />
+      <module fileurl="file://F:\RadioButton\app\app.iml" filepath="F:\RadioButton\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/radiobutton/radiobutton.iml" filepath="$PROJECT_DIR$/radiobutton/radiobutton.iml" />
       <module fileurl="file://C:\Users\absurd\Desktop\RadioButton\radiobutton\radiobutton.iml" filepath="C:\Users\absurd\Desktop\RadioButton\radiobutton\radiobutton.iml" />
+      <module fileurl="file://F:\RadioButton\radiobutton\radiobutton.iml" filepath="F:\RadioButton\radiobutton\radiobutton.iml" />
     </modules>
   </component>
 </project>
