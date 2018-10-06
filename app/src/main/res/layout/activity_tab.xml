@@ -22,7 +22,7 @@
         android:layout_height="@dimen/tab_button_height"
         android:orientation="horizontal">
 
-        <com.blackchopper.radiobutton.RadioButton
+        <com.hacknife.radiobutton.RadioButton
             android:id="@+id/tab_radiobutton_one"
             style="@style/tab_button_style"
             android:checked="true"
@@ -32,7 +32,7 @@
             app:drawable_marginLeft="@dimen/tab_radiobutton_drawable_marginTop"
             app:drawable_width="@dimen/tab_radiobutton_drawable_width" />
 
-        <com.blackchopper.radiobutton.RadioButton
+        <com.hacknife.radiobutton.RadioButton
             android:id="@+id/tab_radiobutton_two"
             style="@style/tab_button_style"
             android:drawableLeft="@drawable/tab_radiobutton_drawable_two"
@@ -41,7 +41,7 @@
             app:drawable_marginLeft="@dimen/tab_radiobutton_drawable_marginTop"
             app:drawable_width="@dimen/tab_radiobutton_drawable_width" />
 
-        <com.blackchopper.radiobutton.RadioButton
+        <com.hacknife.radiobutton.RadioButton
             android:id="@+id/tab_radiobutton_three"
             style="@style/tab_button_style"
             android:drawableLeft="@drawable/tab_radiobutton_drawable_three"
@@ -50,7 +50,7 @@
             app:drawable_marginLeft="@dimen/tab_radiobutton_drawable_marginTop"
             app:drawable_width="@dimen/tab_radiobutton_drawable_width" />
 
-        <com.blackchopper.radiobutton.RadioButton
+        <com.hacknife.radiobutton.RadioButton
             android:id="@+id/tab_radiobutton_four"
             style="@style/tab_button_style"
             android:drawableLeft="@drawable/tab_radiobutton_drawable_four"

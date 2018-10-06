@@ -1,4 +1,4 @@
-package com.blackchopper.radiobutton;
+package com.hacknife.radiobutton;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -7,9 +7,9 @@ import android.util.AttributeSet;
 import android.util.Log;
 
 /**
- * author  : Black Chopper
+ * author  : hacknife
  * e-mail  : 4884280@qq.com
- * github  : http://github.com/BlackChopper
+ * github  : http://github.com/hacknife
  * project : RadioButton
  */
 public class RadioButton extends android.widget.RadioButton {
