@@ -1,4 +1,4 @@
-# RadioButton [![](https://jitpack.io/v/hacknife/radiobutton.svg)](https://jitpack.io/#hacknife/radiobutton)
+# RadioButton [![](https://jitpack.io/v/com.hacknife/radiobutton.svg)](https://jitpack.io/#com.hacknife/radiobutton)
 RadioButton 是一个基于官方二次开发的控件，它新增了六个属性，使用起来更加灵活方便，包括控制drawaable的大小，以及drawable与text之间的距离。[English](https://github.com/hacknife/RadioButton/blob/master/README_ENGLISH.md)
 ## 使用说明
 ### 代码示例
