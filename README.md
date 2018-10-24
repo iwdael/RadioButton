@@ -19,7 +19,7 @@ RadioButton 是一个基于官方二次开发的控件，它新增了六个属�
 	allprojects {
 		repositories {
 			...
-			maven { url 'https://jitpack.io' }
+			maven { url 'https://hacknife.com' }
 		}
 	}
 ```
@@ -28,7 +28,7 @@ RadioButton 是一个基于官方二次开发的控件，它新增了六个属�
 ```Java
 	dependencies {
                 ...
-	        compile 'com.github.hacknife:radiobutton:v1.0.5'
+	        compile 'com.hacknife:radiobutton:1.0.7'
 	}
 ```
 <br><br><br>
