@@ -1,4 +1,5 @@
-# RadioButton [![](https://jitpack.io/v/com.hacknife/radiobutton.svg)](https://jitpack.io/#com.hacknife/radiobutton)
+# RadioButton 
+[![](https://img.shields.io/badge/platform-android-orange.svg)](https://github.com/hacknife/RadioButton)  [![](https://img.shields.io/badge/version-1.0.7-brightgreen.svg)](https://github.com/hacknife/RadioButton)<br/>
 RadioButton 是一个基于官方二次开发的控件，它新增了六个属性，使用起来更加灵活方便，包括控制drawaable的大小，以及drawable与text之间的距离。[English](https://github.com/hacknife/RadioButton/blob/master/README_ENGLISH.md)
 ## 使用说明
 ### 代码示例
@@ -24,11 +25,11 @@ RadioButton 是一个基于官方二次开发的控件，它新增了六个属�
 	}
 ```
 ### Step 2. 添加依赖   
-合并以下代码到需要使用的application Module的dependencies尾。[点击查看详情](https://github.com/hacknife/CarouselBanner/blob/master/application_build.gradle.png)
+合并以下代码到需要使用的application Module的dependencies尾，记得替换版本号。[点击查看详情](https://github.com/hacknife/CarouselBanner/blob/master/application_build.gradle.png)
 ```Java
 	dependencies {
                 ...
-	        compile 'com.hacknife:radiobutton:1.0.7'
+	        compile 'com.hacknife:radiobutton:version'
 	}
 ```
 <br><br><br>
