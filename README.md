@@ -14,7 +14,7 @@ RadioButton 是一个基于官方二次开发的控件，它新增了六个属�
 ```
 ## 如何配置
 将本仓库引入你的项目:
-### Step 1. 添加JitPack仓库到Build文件
+### Step 1. 添加Hacknife仓库到Build文件
 合并以下代码到项目根目录下的build.gradle文件的repositories尾。[点击查看详情](https://github.com/hacknife/CarouselBanner/blob/master/root_build.gradle.png)
 ```Java
 	allprojects {
