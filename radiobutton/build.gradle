@@ -1,14 +1,13 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.novoda.bintray-release'
 
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 30
 
     defaultConfig {
         minSdkVersion 19
-        targetSdkVersion 26
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
     }
@@ -19,16 +18,14 @@ android {
 }
 
 dependencies {
-
-    compileOnly 'com.android.support:appcompat-v7:26.+'
+    compileOnly 'androidx.appcompat:appcompat:1.2.0'
 }
-group='com.github.hacknife'
 
-publish{
+publish {
     userOrg = 'hacknife'
     groupId = 'com.hacknife'
     artifactId = 'radiobutton'
-    publishVersion = '1.0.8'
+    publishVersion = '1.1.0'
     desc = ''
     website = 'https://github.com/hacknife/radiobutton'
 }

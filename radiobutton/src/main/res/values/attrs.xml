@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="RadioButton">
-        <attr name="drawable_height" format="dimension"></attr>
+        <attr name="drawable_height" format="dimension" />
         <attr name="drawable_width" format="dimension" />
-        <attr name="drawable_marginTop" format="dimension"></attr>
-        <attr name="drawable_marginBottom" format="dimension"></attr>
-        <attr name="drawable_marginLeft" format="dimension"></attr>
-        <attr name="drawable_marginRight" format="dimension"></attr>
+        <attr name="drawable_size" format="dimension" />
+        <attr name="scale_rate" format="float" />
+        <attr name="scale_duration" format="integer" />
+        <attr name="enable_animation" format="boolean" />
     </declare-styleable>
 </resources>

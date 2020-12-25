@@ -29,7 +29,7 @@
             android:drawableLeft="@drawable/tab_radiobutton_drawable_one"
             android:text="@string/tab_radiobutton_name_one"
             app:drawable_height="@dimen/tab_radiobutton_drawable_height"
-            app:drawable_marginLeft="@dimen/tab_radiobutton_drawable_marginTop"
+            android:drawablePadding="@dimen/tab_radiobutton_drawable_marginTop"
             app:drawable_width="@dimen/tab_radiobutton_drawable_width" />
 
         <com.hacknife.radiobutton.RadioButton
@@ -38,7 +38,7 @@
             android:drawableLeft="@drawable/tab_radiobutton_drawable_two"
             android:text="@string/tab_radiobutton_name_two"
             app:drawable_height="@dimen/tab_radiobutton_drawable_height"
-            app:drawable_marginLeft="@dimen/tab_radiobutton_drawable_marginTop"
+            android:drawablePadding="@dimen/tab_radiobutton_drawable_marginTop"
             app:drawable_width="@dimen/tab_radiobutton_drawable_width" />
 
         <com.hacknife.radiobutton.RadioButton
@@ -47,7 +47,7 @@
             android:drawableLeft="@drawable/tab_radiobutton_drawable_three"
             android:text="@string/tab_radiobutton_name_three"
             app:drawable_height="@dimen/tab_radiobutton_drawable_height"
-            app:drawable_marginLeft="@dimen/tab_radiobutton_drawable_marginTop"
+            android:drawablePadding="@dimen/tab_radiobutton_drawable_marginTop"
             app:drawable_width="@dimen/tab_radiobutton_drawable_width" />
 
         <com.hacknife.radiobutton.RadioButton
@@ -56,7 +56,7 @@
             android:drawableLeft="@drawable/tab_radiobutton_drawable_four"
             android:text="@string/tab_radiobutton_name_four"
             app:drawable_height="@dimen/tab_radiobutton_drawable_height"
-            app:drawable_marginLeft="@dimen/tab_radiobutton_drawable_marginTop"
+            android:drawablePadding="@dimen/tab_radiobutton_drawable_marginTop"
             app:drawable_width="@dimen/tab_radiobutton_drawable_width" />
     </RadioGroup>
 </LinearLayout>
